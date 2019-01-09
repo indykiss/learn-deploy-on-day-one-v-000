@@ -104,9 +104,11 @@ a:visited {
   margin: 0 auto;
 }
 
+https://i.imgur.com/sLW2z61.jpg
+
 .student-card {
   position: relative;
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+  background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
